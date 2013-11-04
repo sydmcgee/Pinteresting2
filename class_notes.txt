@@ -1,0 +1,22 @@
+Resources - a resources is anything that you can:
+Create
+Read
+Update
+Destroy
+
+CRUD!
+
+Twitter's Resources:
+
+Users
+Tweet
+Sessions (you create and destroy a session when you log in and out.)
+
+1. Create - (POST)
+2. Read - (GET)
+3. Update  - (PUT)
+4. Destory - (DELETE)
+
+
+
+
